@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\HealthBar.cs">
+    <Files>
+      <File FileName="Assets\Money.cs" Line="1" Column="1" />
+      <File FileName="Assets\HealthBar.cs" Line="9" Column="2" />
+      <File FileName="Assets\Scripts\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\DeadsceneController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InfinitePlatform1.cs" Line="16" Column="34" />
+      <File FileName="Assets\Chest.cs" Line="99" Column="3" />
+      <File FileName="Assets\Splash.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
